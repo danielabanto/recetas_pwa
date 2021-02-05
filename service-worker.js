@@ -1,4 +1,4 @@
-importScripts("/recetas_pwa/precache-manifest.c65665f662eab453aa458eb4fc3e6af7.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/recetas_pwa/precache-manifest.4f9916c84e118bae969e1c55b4441b29.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
